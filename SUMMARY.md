@@ -1,9 +1,9 @@
 # Table of contents
 
-* [ECSworkshop](README.md)
+* [ECS-LAB](README.md)
   * [ECS(ELASTIC CONTAINER SERVICE) 소개](readme/1.introduction.md)
-  * [Start\_the\_workshop](readme/2.start\_the\_workshop.md)
-  * [ECSWorkshop](readme/3.microservices.md)
+  * [Start\_the\_LAB](readme/2.start\_the\_workshop.md)
+  * [ECS-LAB](readme/3.microservices.md)
   * [ECS 클러스터에 대한 CLOUDWATCH CONTAINER INSIGHTS 구성](readme/4.container\_insights.md)
   * [ECS 클러스터용 PROMETHEUS/GRAFANA용 AMAZON MANAGED SERVICE 구성](readme/5.amp\_amg.md)
   * [AMAZON ECS 클러스터 용량 공급자](readme/6.capacity\_providers.md)
