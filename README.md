@@ -2,8 +2,8 @@
 
 * [ECS-LAB](README.md)
   * [ECS(ELASTIC CONTAINER SERVICE) 소개](readme/1.introduction.md)
-  * [Start\_the\_LAB](readme/2.start-the-workshop.md)
-  * [ECS-LAB](readme/3.microservices.md)
+  * [Start the LAB](readme/2.start-the-workshop.md)
+  * [ECS LAB](readme/3.microservices.md)
   * [ECS 클러스터 및 컨테이너 모니터링](readme/4.monitoring.md)
   * [ECS 클러스터용 PROMETHEUS/GRAFANA용 AMAZON MANAGED SERVICE 구성](readme/5.amp-amg.md)
   * [AMAZON ECS 클러스터 용량 공급자](readme/6.capacity-providers.md)
